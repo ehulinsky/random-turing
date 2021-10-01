@@ -31,7 +31,7 @@ seed = random.randint(0,1000000000)
 #tunnel bore 422634187
 
 # this seed controls which turing machine is generated
-random.seed(640033538)
+random.seed(seed)
 
         
         
